@@ -5,9 +5,14 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing HNDIT at ATI Trincomalee.
+- 🎓 Currently studying at HNDIT at ATI Trincomalee.
 - 🔧 Skilled in: Laravel, PHP, JavaScript, HTML/CSS, MySQL, and Java.
 - 📚 Always learning new technologies and exploring AI-driven solutions.
+
+---
+
+### 💡 **What Inspires Me**
+I'm driven by the power of technology to solve real-world problems and create inclusive solutions. Continuous learning and improving my skills to stay ahead in tech fuels my passion every day.
 
 ---
 ### 🛠️ **Skills**
@@ -47,16 +52,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![Harisshiene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harisshienee&show_icons=true&theme=radical) 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Harisshienee&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harisshienee&theme=radical)
-
----
-
 ## 🎯 Current Goals
-- 🔭 Enhancing the **Telepathy** project for real-world applications.
 - 🌟 Expanding knowledge in **AI and data structures**.
 - 🌐 Contributing to open-source accessibility projects.
 
