@@ -1,4 +1,4 @@
-# 👩‍💻 H. Harisshiene 
+# 👩‍💻 H. Harisshiene
 
 **💡 Exploring technology, crafting innovative solutions, and enhancing accessibility in software development.**
 
