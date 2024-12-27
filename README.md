@@ -10,6 +10,27 @@
 - 📚 Always learning new technologies and exploring AI-driven solutions.
 
 ---
+### 🛠️ **Skills**
+- **Languages**: Java, PHP, JavaScript, SQL, HTML, CSS
+- **Frameworks/Libraries**: Laravel, Bootstrap, jQuery
+- **Database**: MySQL
+- **Tools**: XAMPP, Git, Figma
+- **Other**: Software design, problem-solving, and project management
+
+---
+
+### 💼 **Projects**
+  
+- **Food Restaurant Management System**:  
+  Streamlined ordering and admin tasks for restaurant operations.
+
+- **SLIATE & ATI Website**:  
+  Database-driven interface for centralized management of ATI data.
+
+---
+
+### 🌟 **Achievements**
+- Represented ATI Trincomalee in the **SLIATE Institutional Website Design Competition**.
 
 ---
 
