@@ -7,7 +7,6 @@
 ## 🚀 About Me
 - 🎓 Currently studying at HNDIT at ATI Trincomalee.
 - 🔧 Skilled in: Laravel, PHP, JavaScript, HTML/CSS, MySQL, and Java.
-- 📚 Always learning new technologies and exploring AI-driven solutions.
 
 ---
 
