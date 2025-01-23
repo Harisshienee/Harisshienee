@@ -16,7 +16,7 @@ I'm driven by the power of technology to solve real-world problems and create in
 ---
 ### 🛠️ **Skills**
 - **Languages**: Java, PHP, JavaScript, SQL, HTML, CSS
-- **Frameworks/Libraries**: Laravel, Bootstrap, jQuery
+- **Frameworks/Libraries**: Laravel, Bootstrap
 - **Database**: MySQL
 - **Tools**: XAMPP, Git, Figma
 - **Other**: Software design, problem-solving, and project management
@@ -52,7 +52,6 @@ I'm driven by the power of technology to solve real-world problems and create in
 ---
 
 ## 🎯 Current Goals
-- 🌟 Expanding knowledge in **AI and data structures**.
 - 🌐 Contributing to open-source accessibility projects.
 
 ---
