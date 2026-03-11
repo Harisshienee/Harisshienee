@@ -2,18 +2,16 @@
 
 **💡 Exploring technology, crafting innovative solutions, and enhancing accessibility in software development.**
 
----
 
 ## 🚀 About Me
 - 🎓 Currently studying at HNDIT at ATI Trincomalee.
 - 🔧 Skilled in: Laravel, PHP, JavaScript, HTML/CSS, MySQL, and Java.
 
----
+
 
 ### 💡 **What Inspires Me**
 I'm driven by the power of technology to solve real-world problems and create inclusive solutions. Continuous learning and improving my skills to stay ahead in tech fuels my passion every day.
 
----
 ### 🛠️ **Skills**
 - **Languages**: Java, PHP, JavaScript, SQL, HTML, CSS
 - **Frameworks/Libraries**: Laravel, Bootstrap
@@ -21,7 +19,6 @@ I'm driven by the power of technology to solve real-world problems and create in
 - **Tools**: XAMPP, Git, Figma
 - **Other**: Software design, problem-solving, and project management
 
----
 
 ### 💼 **Projects**
   
@@ -31,12 +28,10 @@ I'm driven by the power of technology to solve real-world problems and create in
 - **SLIATE & ATI Website**:  
   Database-driven interface for centralized management of ATI data.
 
----
 
 ### 🌟 **Achievements**
 - Represented ATI Trincomalee in the **SLIATE Institutional Website Design Competition**.
 
----
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
