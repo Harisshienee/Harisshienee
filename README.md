@@ -47,18 +47,9 @@ const harisshiene = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ STATS ROW -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harisshienee&show_icons=true&theme=transparent&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=333333&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisshienee&layout=compact&theme=transparent&hide_border=true&title_color=C9A84C&text_color=333333&bg_color=00000000&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harisshienee&theme=transparent&hide_border=true&ring=C9A84C&fire=8B1A2C&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=888888" width="68%"/>
+<img src="https://streak-stats.demolab.com?user=Harisshienee&theme=transparent&hide_border=true&ring=C9A84C&fire=8B1A2C&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=888888&stroke=C9A84C" width="68%"/>
 
 </div>
 
