@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Harisshiene%20Hariyendiran&fontSize=52&fontColor=8B1A2C&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 <!-- ═══════════════════════════════════════════ TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;AI+%26+ML+engineer+%7C+18%2B+production+systems;%F0%9F%8F%86+National+Ingenuity+Award+2025;Open+to+freelance+%26+collaboration+%E2%9C%A8;Turning+complex+problems+into+clean+code+%F0%9F%A7%A0" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;AI+%26+ML+fullStack Developer+%7C+18%2B+production+systems;%F0%9F%8F%86+National+Ingenuity+Award+2025;Open+to+freelance+%26+collaboration+%E2%9C%A8;Turning+complex+problems+into+clean+code+%F0%9F%A7%A0" alt="Typing SVG"/>
 
 <!-- ═══════════════════════════════════════════ SLOGAN -->
 <br/>
@@ -35,11 +35,10 @@ const harisshiene = {
   name     : "Harisshiene Hariyendiran",
   location : "Sri Lanka 🇱🇰",
   website  : "http://harisshiene.com/",
-  role     : ["Full Stack Developer", "AI & ML Engineer", "System Architect"],
+  role     : ["Full Stack Developer", "AI & ML Fullstack Developer"],
   awards   : ["🏆 National Ingenuity Award 2025", "🎖️ BP-IPAG Symposium 2025 (×3)"],
   systems  : "18+ production systems deployed",
-  currently: ["QuantumPlus (Pvt) Ltd", "Ministry of Education – Eastern Province",
-               "Gear UP", "Volunteering · AI & ML"],
+  currently: ["QuantumPlus (Pvt) Ltd", "Ministry of Education – Eastern Province"],
   available: true,   // open to freelance projects ✨
   contact  : "harishienehariyendran20@gmail.com",
 };
