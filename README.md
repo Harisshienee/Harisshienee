@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════ SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-harisshiene.dev-8B1A2C?style=for-the-badge&logoColor=white)](http://harisshiene.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-harisshiene.dev-8B1A2C?style=for-the-badge&logoColor=white)](https://www.harisshiene.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hhari)
 [![GitHub](https://img.shields.io/badge/GitHub-Harisshienee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harisshienee)
 [![Email](https://img.shields.io/badge/Email-Contact-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishienehariyendran20@gmail.com)
