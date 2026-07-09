@@ -190,19 +190,6 @@ const harisshiene = {
 
 ---
 
-<!-- ═══════════════════════════════════════════ ACTIVITY GRAPH -->
-## `> git log --graph --oneline`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harisshienee&bg_color=ffffff&color=C9A84C&line=8B1A2C&point=C9A84C&area=true&area_color=FBF6E9&hide_border=true&custom_title=Contribution+Activity" width="96%"/>
-
-</div>
-
-<br/>
-
----
-
 <!-- ═══════════════════════════════════════════ ANIMATED FOOTER METRICS -->
 <div align="center">
 
